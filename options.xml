@@ -1,0 +1,52 @@
+<registry version="0.9.2">
+	<options>
+		<display>
+			<mode value="0"/>
+			<resolution value="0"/>
+		</display>
+		<gfx>
+			<renderscale value="50"/>
+			<quality value="1"/>
+			<fov value="120"/>
+			<gamma value="90"/>
+			<dof value="0"/>
+			<barrel value="0"/>
+			<motionblur value="0"/>
+			<vsync value="1"/>
+		</gfx>
+		<audio>
+			<soundvolume value="0"/>
+			<ambiencevolume value="100"/>
+			<musicvolume value="0"/>
+			<menumusic value="1"/>
+		</audio>
+		<input>
+			<smoothing value="0"/>
+			<sensitivity value="110"/>
+			<invert value="0"/>
+			<headbob value="75"/>
+			<keymap>
+				<forward value="w"/>
+				<backward value="s"/>
+				<left value="a"/>
+				<right value="d"/>
+				<flashlight value="f"/>
+				<interact value="e"/>
+				<jump value="space"/>
+				<crouch value="ctrl"/>
+			</keymap>
+		</input>
+		<game>
+			<campaign>
+				<ammo value="100"/>
+				<health value="100"/>
+			</campaign>
+			<missionskipping value="1"/>
+			<sandbox>
+				<unlocklevels value="1"/>
+				<unlocktools value="1"/>
+			</sandbox>
+		</game>
+	</options>
+</registry>
+
