@@ -1,5 +1,5 @@
-# TLFineTuner
-Teardown FineTuner is an "optimizer" for a game called Teardown (teardowngame.com)
+# TDFineTuner
+TDFineTuner is an "optimizer" for a game called Teardown (teardowngame.com)
 
 # What does it do?
 It "optimizes" the game to make it more playable on potatoes.
